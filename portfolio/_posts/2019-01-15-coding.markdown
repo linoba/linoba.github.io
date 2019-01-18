@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "topcoder"
+date:   2019-01-15 10:10:00 +0100
+categories: coding competition topcoder
+---
+
+I started recently to practice my coding skills on [topcoder][topcoder], handle [the12][topcoder-handle].
+The site features various contests, e.g. short SRMs (single round matches) or longer MMs (marathon matches) like [StainedGlass][stained-glass-standings] for competitive programming.
+Other challenges are available in the categories design, development and data science. Those challenges are partially cash-rewarded, like [IARPAs mercury challenge][mercury], but mostly offer a great platform to further develop coding skills.
+
+[topcoder]: https://www.topcoder.com/
+[topcoder-handle]: https://www.topcoder.com/members/the12
+[stained-glass-problem]: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17394&pm=15264
+[stained-glass-standings]: https://community.topcoder.com/longcontest/?module=ViewStandings&rd=17394
+[mercury]: https://www.iarpa.gov/challenges/mercury.html
